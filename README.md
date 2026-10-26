@@ -8,7 +8,6 @@ This project documents a multi-stage voice automation workflow that combines wor
 
 The workflow processes available customer information, prepares relevant context for an AI voice agent, evaluates the conversation outcome, and supports follow-up activities based on the results.
 
-<img width="3200" height="1900" alt="convoflow_agent_workflow_updated" src="https://github.com/user-attachments/assets/a23e3e1a-bf7e-4b46-ab22-7fceb8c32494" />
 
 
 The workflow is organized into three main stages.
