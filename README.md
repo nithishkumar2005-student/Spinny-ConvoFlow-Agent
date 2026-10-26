@@ -7,6 +7,8 @@ An AI-powered voice workflow designed to prepare customer context, conduct perso
 This project documents a multi-stage voice automation workflow that combines workflow orchestration, Large Language Models (LLMs), external service integrations, and post-call evaluation logic.
 
 The workflow processes available customer information, prepares relevant context for an AI voice agent, evaluates the conversation outcome, and supports follow-up activities based on the results.
+<img width="4000" height="2050" alt="spinny convoflow_agent_workflow_updated" src="https://github.com/user-attachments/assets/862c1755-21e6-4bbf-96f4-e246dc3e6c5c" />
+
 
 
 
